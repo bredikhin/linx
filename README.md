@@ -7,3 +7,6 @@
 * 2019-05-12 15:39:10 [Brotli vs Gzip Compression. How we improved our latency by 37%](https://medium.com/oyotech/how-brotli-compression-gave-us-37-latency-improvement-14d41e50fee4)
 * 2019-05-12 16:25:08 [Radosław Pietruszewski - Next-generation React databases](https://www.youtube.com/watch?v=UlZ1QnFF4Cw)
 * 2019-05-15 10:01:28 [Simplify Styling with Functional CSS](https://blog.prototypr.io/simplify-styling-with-functional-css-7b3e4edc2243)
+* 2019-05-18 07:55:02 [Automate Mac OS X Configuration by using Brewfile](https://medium.com/@satorusasozaki/automate-mac-os-x-configuration-by-using-brewfile-58a78ce5cc53)
+* 2019-05-19 16:12:33 [Too DRY - The Grep Test](http://jamie-wong.com/2013/07/12/grep-test/)
+* 2019-05-25 12:43:10 [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications)
